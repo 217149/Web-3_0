@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Aug 2025 10:18:31 +0200</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ostrava</title>
+      <link>https://example.org/posts/muj-prvni-clanek/</link>
+      <pubDate>Tue, 19 Aug 2025 10:18:31 +0200</pubDate>
+      <guid>https://example.org/posts/muj-prvni-clanek/</guid>
+      <description>&lt;h1 id=&#34;ostrava&#34;&gt;Ostrava&lt;/h1&gt;&#xA;&lt;p&gt;Sto roků v šachtě žil, mlčel jsem.&#xA;Sto roků kopal jsem uhlí.&#xA;Za sto let v rameni bezmasém,&#xA;svaly mi v železo ztuhly.&#xA;Uhelný prach sed mi do očí,&#xA;rubíny ze rtů mi uhly.&#xA;Ze vlasů, z vousů a z obočí&#xA;vysí mi rampouchy uhlí.&lt;/p&gt;&#xA;&lt;p&gt;Chlém s uhlím beru si do práce.&#xA;Z roboty jdu na robotu.&#xA;Při dunaji strmí paláce&#xA;z krvé mé a mého potu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
