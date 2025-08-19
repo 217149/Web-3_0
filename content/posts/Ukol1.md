@@ -28,4 +28,6 @@ Vyřezané díly jsem poskládal do finální podoby. Spoje držely přesně, ka
 ## Zhodnocení
 Projekt mi ukázal, jak důležité je plánovat každý díl a přesně nastavit parametry laseru. Také jsem si vyzkoušel, jak digitální návrh převést do fyzické podoby a jak drobné změny mohou ovlivnit stabilitu výrobku. Výsledkem je praktický a estetický stojánek, který je připravený pro každodenní použití.
 
-![Stojánek](Web-3_0/images/stojanek.jpg)
+![Stojánek](/images/stojanek.jpg)
+
+![Skenovaní](images/image_4.jpg)
