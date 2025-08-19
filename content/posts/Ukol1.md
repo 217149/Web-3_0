@@ -8,7 +8,7 @@ title = 'Řezací úkol'
 
 Úkolem je navrhnout a vyrobit jednoduchý objekt z kartonu s využitím řezacího laseru. Projekt musí ukázat, že student zvládá digitální návrh, přípravu materiálu a bezpečné použití laseru. Součástí úkolu je také dokumentace – krátký popis průběhu práce a výsledku, který bude prezentován na webové stránce.
 
-![LASER](Web-3_0/images/image_2.jpg)
+![LASER](/Web-3_0/images/image_2.jpg)
 
 
 # Můj projekt: Laserem vyrobený stojánek na tužky
@@ -28,8 +28,4 @@ Vyřezané díly jsem poskládal do finální podoby. Spoje držely přesně, ka
 ## Zhodnocení
 Projekt mi ukázal, jak důležité je plánovat každý díl a přesně nastavit parametry laseru. Také jsem si vyzkoušel, jak digitální návrh převést do fyzické podoby a jak drobné změny mohou ovlivnit stabilitu výrobku. Výsledkem je praktický a estetický stojánek, který je připravený pro každodenní použití.
 
-![Stojánek](/images/stojanek.jpg)
-
-![Skenovaní](images/image_4.jpg)
-
-![LASER](/Web-3_0/images/image_1.jpg)
+![Stojánek](/Web-3_0/images/stojanek.jpg)

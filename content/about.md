@@ -3,7 +3,7 @@ date = '2025-08-19T13:09:34+02:00'
 draft = false
 title = 'About'
 +++
-![Portrét](Web-3_0/images/image_3.jpg)
+![Portrét](/Web-3_0/images/image_3.jpg)
 
 Ahoj! Jmenuji se [Tvé jméno] a studuji [název oboru/koleje/fakulty]. Baví mě objevovat, jak z digitálních návrhů vznikají reálné objekty. Rád pracuji s technologií, která kombinuje kreativitu a precizní výrobu, jako je například řezací laser nebo 3D tisk.
 

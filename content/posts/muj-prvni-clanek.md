@@ -4,7 +4,7 @@ draft = false
 title = 'Ostrava'
 +++
 
-![Ostrava](/images/image_1.jpg)
+![Ostrava](/Web-3_0/images/image_1.jpg)
 
 # Ostrava
 
