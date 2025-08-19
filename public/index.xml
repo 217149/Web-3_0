@@ -1,19 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Vítejte na mé stránce on Moje portfolio ZPC</title>
+    <link>/</link>
+    <description>Recent content in Vítejte na mé stránce on Moje portfolio ZPC</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 10:18:31 +0200</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>cz-cs</language>
+    <lastBuildDate>Tue, 19 Aug 2025 13:21:59 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seznam</title>
+      <link>/all-posts/</link>
+      <pubDate>Tue, 19 Aug 2025 13:21:59 +0200</pubDate>
+      <guid>/all-posts/</guid>
+      <description>&lt;h2 id=&#34;seznam-všech-článků&#34;&gt;Seznam všech článků&lt;/h2&gt;&#xA;&lt;ul&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/finalni_ukol/&#34;&gt;Finalni_ukol&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/&#34;&gt;Posts&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/ukol4/&#34;&gt;Ukol4&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/ukol3/&#34;&gt;Ukol3&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/ukol2/&#34;&gt;Můj projekt: 3D skenování objektu&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/ukol1/&#34;&gt;Řezací úkol&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;  &lt;li&gt;&#xD;&#xA;    &lt;a href=&#34;/posts/muj-prvni-clanek/&#34;&gt;Ostrava&lt;/a&gt; – 19.8.2025&#xD;&#xA;  &lt;/li&gt;&#xD;&#xA;&#xD;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Finalni_ukol</title>
+      <link>/posts/finalni_ukol/</link>
+      <pubDate>Tue, 19 Aug 2025 13:13:29 +0200</pubDate>
+      <guid>/posts/finalni_ukol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukol4</title>
+      <link>/posts/ukol4/</link>
+      <pubDate>Tue, 19 Aug 2025 13:13:17 +0200</pubDate>
+      <guid>/posts/ukol4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukol3</title>
+      <link>/posts/ukol3/</link>
+      <pubDate>Tue, 19 Aug 2025 13:13:13 +0200</pubDate>
+      <guid>/posts/ukol3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Můj projekt: 3D skenování objektu</title>
+      <link>/posts/ukol2/</link>
+      <pubDate>Tue, 19 Aug 2025 13:13:09 +0200</pubDate>
+      <guid>/posts/ukol2/</guid>
+      <description>&lt;h2 id=&#34;zadání&#34;&gt;Zadání&lt;/h2&gt;&#xA;&lt;p&gt;Úkolem bylo vybrat si fyzický objekt a zdokumentovat jej pomocí 3D skeneru. Cílem bylo naučit se práci se skenerem, porozumět procesu digitalizace fyzických objektů a následně analyzovat výsledný 3D model.&lt;/p&gt;&#xA;&lt;h2 id=&#34;úvod&#34;&gt;Úvod&lt;/h2&gt;&#xA;&lt;p&gt;Pro svůj projekt jsem si vybral [název objektu – např. malou sošku, model auta, nebo zajímavý předmět z domácnosti]. Chtěl jsem zjistit, jak přesně dokáže 3D skener zachytit detaily a tvary reálného předmětu a jakým způsobem se tyto informace přenášejí do digitální podoby.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 19 Aug 2025 13:09:34 +0200</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/image_3.jpg&#34; alt=&#34;Portrét&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahoj! Jmenuji se [Tvé jméno] a studuji [název oboru/koleje/fakulty]. Baví mě objevovat, jak z digitálních návrhů vznikají reálné objekty. Rád pracuji s technologií, která kombinuje kreativitu a precizní výrobu, jako je například řezací laser nebo 3D tisk.&lt;/p&gt;&#xA;&lt;p&gt;Ve volném čase mě zajímá design a modelování, a snažím se propojit své nápady s praktickými výrobními postupy. Tento web je místem, kde dokumentuji své projekty, sdílím zkušenosti a ukazuji, jak se postupně učím navrhovat a vyrábět vlastní produkty – od návrhu až po hotový objekt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Řezací úkol</title>
+      <link>/posts/ukol1/</link>
+      <pubDate>Tue, 19 Aug 2025 12:56:21 +0200</pubDate>
+      <guid>/posts/ukol1/</guid>
+      <description>&lt;h2 id=&#34;zadání&#34;&gt;Zadání&lt;/h2&gt;&#xA;&lt;p&gt;Úkolem je navrhnout a vyrobit jednoduchý objekt z kartonu s využitím řezacího laseru. Projekt musí ukázat, že student zvládá digitální návrh, přípravu materiálu a bezpečné použití laseru. Součástí úkolu je také dokumentace – krátký popis průběhu práce a výsledku, který bude prezentován na webové stránce.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/image_2.jpg&#34; alt=&#34;LASER&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;můj-projekt-laserem-vyrobený-stojánek-na-tužky&#34;&gt;Můj projekt: Laserem vyrobený stojánek na tužky&lt;/h1&gt;&#xA;&lt;h2 id=&#34;úvod&#34;&gt;Úvod&lt;/h2&gt;&#xA;&lt;p&gt;Pro tento úkol jsem se rozhodl vytvořit stojánek na tužky z kartonu. Chtěl jsem vyzkoušet, jak přesně a čistě dokáže řezací laser pracovat s jednoduchým materiálem a zároveň si vyzkoušet vlastní návrh od digitálního modelu až po finální produkt.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ostrava</title>
-      <link>https://example.org/posts/muj-prvni-clanek/</link>
+      <link>/posts/muj-prvni-clanek/</link>
       <pubDate>Tue, 19 Aug 2025 10:18:31 +0200</pubDate>
-      <guid>https://example.org/posts/muj-prvni-clanek/</guid>
-      <description>&lt;h1 id=&#34;ostrava&#34;&gt;Ostrava&lt;/h1&gt;&#xA;&lt;p&gt;Sto roků v šachtě žil, mlčel jsem.&#xA;Sto roků kopal jsem uhlí.&#xA;Za sto let v rameni bezmasém,&#xA;svaly mi v železo ztuhly.&#xA;Uhelný prach sed mi do očí,&#xA;rubíny ze rtů mi uhly.&#xA;Ze vlasů, z vousů a z obočí&#xA;vysí mi rampouchy uhlí.&lt;/p&gt;&#xA;&lt;p&gt;Chlém s uhlím beru si do práce.&#xA;Z roboty jdu na robotu.&#xA;Při dunaji strmí paláce&#xA;z krvé mé a mého potu.&lt;/p&gt;</description>
+      <guid>/posts/muj-prvni-clanek/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/image_1.jpg&#34; alt=&#34;Ostrava&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;ostrava&#34;&gt;Ostrava&lt;/h1&gt;&#xA;&lt;p&gt;Sto roků v šachtě žil, mlčel jsem.&lt;br&gt;&#xA;Sto roků kopal jsem uhlí.&lt;br&gt;&#xA;Za sto let v rameni bezmasém,&lt;br&gt;&#xA;svaly mi v železo ztuhly.&lt;br&gt;&#xA;Uhelný prach sed mi do očí,&lt;br&gt;&#xA;rubíny ze rtů mi uhly.&lt;br&gt;&#xA;Ze vlasů, z vousů a z obočí&lt;br&gt;&#xA;vysí mi rampouchy uhlí.&lt;/p&gt;&#xA;&lt;p&gt;Chlém s uhlím beru si do práce.&lt;br&gt;&#xA;Z roboty jdu na robotu.&lt;br&gt;&#xA;Při dunaji strmí paláce&lt;br&gt;&#xA;z krvé mé a mého potu.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

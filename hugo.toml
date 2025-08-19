@@ -1,5 +1,31 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+languageCode = "cz-cs"
+title = "Moje portfolio ZPC"
 theme = "ananke"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
+  [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Domů"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "allposts"
+    name = "Všechny příspěvky"
+    url = "/all-posts/"
+    weight = 2
+
+ [[menu.main]]
+  identifier = "about"
+  name = "O mně"
+  url = "/about/"
+  weight = 3
