@@ -34,4 +34,4 @@ Pro svůj projekt jsem si vybral [název objektu – např. malou sošku, model 
 ## Zhodnocení
 Projekt mi ukázal, jak důležité je pečlivé umístění objektu a nastavení parametrů skeneru. Také jsem si vyzkoušel, jak digitální data zpracovat do podoby, která odpovídá reálnému objektu. Výsledný model mi umožňuje studovat detaily objektu a představuje praktický výsledek kombinace technologie a přesného pozorování.
 
-![Skenovaní](/images/image_4.jpg)
+![Skenovaní](Web-3_0/images/image_4.jpg)
