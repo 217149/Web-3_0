@@ -31,3 +31,5 @@ Projekt mi ukázal, jak důležité je plánovat každý díl a přesně nastavi
 ![Stojánek](/images/stojanek.jpg)
 
 ![Skenovaní](images/image_4.jpg)
+
+![LASER](/Web-3_0/images/image_1.jpg)
